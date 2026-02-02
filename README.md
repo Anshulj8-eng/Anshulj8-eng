@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshul Choudhary</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **MongoDB , Flask , NLP**
+- 🌱 I’m currently learning **MongoDB , AgenticAI , NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anshulj8-eng](https://github.com/Anshulj8-eng)
 
