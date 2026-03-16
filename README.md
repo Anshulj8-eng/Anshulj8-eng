@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul Choudhary</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshulj8-eng" alt="anshulj8-eng" /></a> </p>
-
 - 🌱 I’m currently learning **MongoDB, Azure, Tensor Flow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anshulj8-eng](https://github.com/Anshulj8-eng)
